@@ -2,8 +2,7 @@
 <p align="center">
   <h3 align="center">A kid with some issues interest in develop</h3>
 </p>
-- ✍ I'm a student of: [FPT University HCM Campus](https://daihoc.fpt.edu.vn/) (FPTU).
-
-- 🌱 I’m currently learning **Software Engineering.**
+✍ I'm a student of: [FPT University HCM Campus](https://daihoc.fpt.edu.vn/) (FPTU).
+🌱 I’m currently learning **Software Engineering.**
 
 <br />
