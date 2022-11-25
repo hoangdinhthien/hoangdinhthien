@@ -4,6 +4,6 @@
 </p>
 ✍ I'm a student of: [FPT University HCM Campus](https://daihoc.fpt.edu.vn/) (FPTU).
 <br/>
-🌱 I’m currently learning **Software Engineering.**
+🌱 I’m currently learning <strong>Software Engineering.</strong>
 
 <br />
